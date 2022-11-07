@@ -1,0 +1,8 @@
+.word {
+  display: flex;
+  gap: 0.25rem;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-transform: uppercase;
+}
