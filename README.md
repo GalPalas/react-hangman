@@ -1,1 +1,1 @@
-# React Hangman with TypeScript
+# React Hangman with TypeScript using react-bootstrap
